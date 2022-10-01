@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirtan Patel</h1>
 <h3 align="center"> programmer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkirtan&label=Profile%20views&color=Blue&style=flat" alt="kirtiraj22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkirtan&label=Profile%20views&color=2beefc&style=flat" alt="kirtiraj22" /> </p>
 
 
 - 🔭 I’m currently pursuing Btech in computer science engineering from **Dr.Kiran and Pallavi Patel Global University ,Vadodara**
