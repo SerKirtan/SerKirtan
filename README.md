@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtan Patel</h1>
-<h3 align="center"> programmer from India</h3>
+<h3 align="center">A programmer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serkirtan&label=Profile%20views&color=2beefc&style=flat" alt="SerKirtan" /> </p>
 
 <img alt="github contribution snake animation" src="https://github.com/SerKirtan/Snake-Animation/blob/main/snake.svg">
