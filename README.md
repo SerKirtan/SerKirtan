@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing Btech in computer science engineering from **Drs. Kiran and Pallavi Patel Global University ,Vadodara**
 
-- 🌱 I’m currently learning **C++ , JS , DS**
+- 🌱 I’m currently learning **Java , DSA**
 
 - 📫 How to reach me **kirtanpatel1710@gmail.com**
 
